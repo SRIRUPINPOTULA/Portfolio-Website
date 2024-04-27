@@ -377,6 +377,12 @@ article .icon {
     border-color: rgb(163, 163, 163);
 }
 
+/* Styling Projects */
+#publications {
+    position: relative;
+}
+
+
 /* Styling Contact */
 
 #contact {
@@ -427,6 +433,4 @@ footer {
 footer p{
     text-align: center;
 }
-
-
 
